@@ -15,7 +15,5 @@ const memory = {
         '.../image/obrazek6.jpg',
         '.../image/obrazek7.jpg',
         '.../image/obrazek8.jpg',
-        '.../image/obrazek9.jpg',
-        '.../image/obrazek10.jpg'
     ]
 }
